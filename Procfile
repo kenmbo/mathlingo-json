@@ -1,1 +1,1 @@
-web: gunicorn mathlingo-json-app.py:app
+web: gunicorn mathlingo-json.py:app
